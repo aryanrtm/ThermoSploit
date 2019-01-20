@@ -1,7 +1,7 @@
 # ThermoSploit
-Thermostat Exploiter
-Dork:intitle:"Heatmiser Wifi Thermostat"
-Vendor Lnk: https://www.heatmiser.com/en/ 
+Thermostat Exploiter<br>
+Dork:intitle:"Heatmiser Wifi Thermostat"<br>
+Vendor Lnk: https://www.heatmiser.com/en/ <br>
 Tested on: Heatmiser Version 1.7
 # Screenshot
 ![screenshot_20190120_162715](https://user-images.githubusercontent.com/32659320/51437424-dbec9100-1cd0-11e9-9782-470bd2512d01.png)
